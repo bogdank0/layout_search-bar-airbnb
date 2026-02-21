@@ -2,10 +2,14 @@
 > Here are the [Layout Tasks Instructions](https://mate-academy.github.io/layout_task-guideline/#how-to-solve-the-layout-tasks-on-github)
 ___
 
+
+
 ## The task
 > Create HTML page with two search bars as designed in [the mockup](https://www.figma.com/file/kf3AWulK9elrNk34wtpjPw/Airbnb-Search-bar?node-id=0%3A1). This search bar will be part of big project.
 
 ![screenshot](./references/search-bar-example.png)
+
+
 
 ### Requirements:
 - use images from [src/images](src/images)

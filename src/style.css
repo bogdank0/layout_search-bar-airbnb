@@ -26,6 +26,15 @@
   margin-top: 20px;
 }
 
+/*
+
+  з цим тест видає 2 помилки
+
+
+.search-bar + .search-bar {
+  margin-top: 20px;
+} */
+
 .search-bar--big {
   height: 70px;
 }
@@ -115,6 +124,4 @@
 
   text-shadow: 0 4px 4px 0 #00000040;
   font-weight: 800;
-
-  background-color: red;
 }
